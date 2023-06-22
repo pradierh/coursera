@@ -6,30 +6,23 @@ Welcome to my Coursera Homework Repository! :wave: This repository contains all 
 
 ## Table of Contents :scroll:
 
-- [Course 1](#course-1) :books:
-- [Course 2](#course-2) :books:
-- [Course 3](#course-3) :books:
-- [Course 4](#course-4) :books:
-- [Contributing](#contributing) :raising_hand:
-- [License](#license) :page_with_curl:
+### Data analytics :microscope:
 
-## Course 1 :books:
-
-The `course-1` folder contains the assignments and projects for Course 1.
-
-## Course 2 :books:
+- [SQL for Data Science](.) :books:
+  
+### Data science :dart:
 
 The `course-2` folder contains the assignments and projects for Course 2.
 
-## Course 3 :books:
+### Data engineer :fuelpump:
 
 The `course-3` folder contains the assignments and projects for Course 3.
 
-## Course 4 :books:
+### Computer science :computer:
 
 The `course-4` folder contains the assignments and projects for Course 4.
 
-## Contributing :raising_hand:
+### Contributing :raising_hand:
 
 If you would like to contribute to this repository, please follow these steps:
 
@@ -39,6 +32,6 @@ If you would like to contribute to this repository, please follow these steps:
 4. Push your changes to your forked repository.
 5. Submit a pull request, explaining the changes you have made.
 
-## License :page_with_curl:
+### License :page_with_curl:
 
 This repository is licensed under the [MIT License](LICENSE).
