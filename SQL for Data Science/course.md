@@ -1,8 +1,8 @@
 # SQL for Data Science
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f1/UC_Davis.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/UC_Davis.jpg" width="50%" height="50%">
 
-## Course link
+## Course links
 
 [Personal notes](https://pradierh.notion.site/SQL-8faa7f08bb3a4efb8cb35566c2a95977?pvs=4 "Visit my notes!")
 
