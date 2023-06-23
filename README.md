@@ -11,6 +11,7 @@ Welcome to my Coursera Homework Repository! :wave: This repository contains all 
 
 
 - [SQL for Data Science](./SQL%20for%20Data%20Science) :books:
+- [IBM Data Analyst Professional Certificate](./IBM%20Data%20Analyst%20Certificat%20Professionnel) :mag_right:
   
 ### Data science :dart:
 
