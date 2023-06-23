@@ -4,13 +4,13 @@
 
 ## Course links
 
-[Personal notes](https://pradierh.notion.site/SQL-8faa7f08bb3a4efb8cb35566c2a95977?pvs=4 "Visit my notes!")
+[:notebook: Personal notes](https://pradierh.notion.site/SQL-8faa7f08bb3a4efb8cb35566c2a95977?pvs=4 "Visit my notes!")
 
-[Course webpage](https://www.coursera.org/learn/sql-for-data-science "Visit coursera course!")
+[:computer: Course webpage](https://www.coursera.org/learn/sql-for-data-science "Visit coursera course!")
 
-[My SQL for Data Science final assigment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md)
+[:clipboard: My SQL for Data Science final assignment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md)
 
-[My certification](./certification.pdf) :books:
+[:trophy: My certification](./certification.pdf)
 
 ## À propos de ce cours
 
