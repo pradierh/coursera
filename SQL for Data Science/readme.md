@@ -8,6 +8,8 @@
 
 [Course webpage](https://www.coursera.org/learn/sql-for-data-science "Visit coursera course!")
 
+[SQL for Data Science final assigment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md"Come see my work!")
+
 ## À propos de ce cours
 
 As data collection has increased exponentially, the demand for individuals skilled in using and interacting with data has also grown. Data scientists play a crucial role in thinking critically, providing insights, making better decisions, and optimizing businesses. They are often described as "part mathematician, part computer scientist, and part trend spotter" (SAS Institute, Inc.). According to Glassdoor, being a data scientist is considered the best job in America, with a median base salary of $110,000 and numerous job openings.
