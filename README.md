@@ -7,7 +7,7 @@ Welcome to my Coursera Homework Repository! :wave: This repository contains all 
 ## Table of Contents :scroll:
 
 ### Data analytics :microscope:
-`SQL` `Tableau` `PowerBI`
+`SQL` `Tableau` `PowerBI` `Python` `R`
 
 
 - [SQL for Data Science](./SQL%20for%20Data%20Science) :books:
