@@ -7,20 +7,20 @@ Welcome to my Coursera Homework Repository! :wave: This repository contains all 
 ## Table of Contents :scroll:
 
 ### Data analytics :microscope:
+`SQL` `Tableau` `PowerBI`
+
 
 - [SQL for Data Science](./SQL%20for%20Data%20Science) :books:
   
 ### Data science :dart:
 
-The `course-2` folder contains the assignments and projects for Course 2.
-
 ### Data engineer :fuelpump:
 
-The `course-3` folder contains the assignments and projects for Course 3.
+### BI engineer :mag:
 
 ### Computer science :computer:
 
-The `course-4` folder contains the assignments and projects for Course 4.
+### Soft skills :handshake:
 
 ### Contributing :raising_hand:
 
