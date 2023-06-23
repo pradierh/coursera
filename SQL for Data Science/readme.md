@@ -8,7 +8,9 @@
 
 [Course webpage](https://www.coursera.org/learn/sql-for-data-science "Visit coursera course!")
 
-[SQL for Data Science final assigment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md"Come see my work!")
+[My SQL for Data Science final assigment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md)
+
+[My certification](./SQL%20for%20Data%20Science) :books:
 
 ## À propos de ce cours
 
