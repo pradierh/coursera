@@ -12,7 +12,7 @@
 
 [:trophy: My certification](./certification.pdf)
 
-## À propos de ce cours
+## About this course
 
 As data collection has increased exponentially, the demand for individuals skilled in using and interacting with data has also grown. Data scientists play a crucial role in thinking critically, providing insights, making better decisions, and optimizing businesses. They are often described as "part mathematician, part computer scientist, and part trend spotter" (SAS Institute, Inc.). According to Glassdoor, being a data scientist is considered the best job in America, with a median base salary of $110,000 and numerous job openings.
 
@@ -24,13 +24,13 @@ Throughout the course, you will create new tables, move data into them, and lear
 
 While there are no specific prerequisites or software requirements for this course, it is recommended to use a simple text editor for the final project. So, what are you waiting for? This is your first step toward landing a job in one of the most sought-after occupations in the US and beyond!
 
-### CE QUE VOUS ALLEZ APPRENDRE (What You Will Learn)
+### What You Will Learn
 - Identify a subset of data needed from a column or set of columns and write a SQL query to limit the results.
 - Use SQL commands to filter, sort, and summarize data.
 - Create an analysis table by combining multiple queries using the UNION operator.
 - Manipulate strings, dates, and numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
 
-### COMPÉTENCES QUE VOUS ACQUERREZ (Skills You Will Gain)
+### Skills You Will Gain
 - Data Science
 - Data Analysis
 - Sqlite
@@ -38,7 +38,7 @@ While there are no specific prerequisites or software requirements for this cour
 
 ## Programme de cours : ce que vous apprendrez dans ce cours
 
-### SEMAINE 1
+### WEEK 1
 **Duration: 4 hours**
 
 #### Getting Started and Selecting & Retrieving Data with SQL
@@ -48,7 +48,7 @@ In this module, you will learn the basics of SQL and its differences from other 
 
 ---
 
-### SEMAINE 2
+### WEEK 2
 **Duration: 3 hours**
 
 #### Filtering, Sorting, and Calculating Data with SQL
@@ -68,7 +68,7 @@ This module dives into subqueries, their benefits, and when to use them. The con
 
 ---
 
-### SEMAINE 4
+### WEEK 4
 **Duration: 4 hours**
 
 #### Modifying and Analyzing Data with SQL
