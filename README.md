@@ -8,7 +8,7 @@ Welcome to my Coursera Homework Repository! :wave: This repository contains all 
 
 ### Data analytics :microscope:
 
-- [SQL for Data Science](./SQLforDataScience) :books:
+- [SQL for Data Science](./SQL%20for%20Data%20Science) :books:
   
 ### Data science :dart:
 
