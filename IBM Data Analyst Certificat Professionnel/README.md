@@ -4,6 +4,18 @@
 
 **Unlock your potential in data analytics. Build job-ready skills for an in-demand career as a data analyst. No degree or prior experience required.**
 
+## Table of Contents :scroll:
+
+- [Introduction to Data Analytics](./1_Introduction%20to%20Data%20Analytics)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](./3_Dashboards%with%Excel%and%Cognos)
+- [Excel Basics for Data Analysis](./4_)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+
 ## Skills you'll gain
 `Microsoft Excel` `Python Programming` `Data Analysis` `Data Visualization (DataViz)` `SQL`
 
