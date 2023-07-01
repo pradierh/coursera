@@ -10,7 +10,7 @@ Explore the fundamentals of data analysis, learn about various data roles, and u
 
 [:computer: Course webpage](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst "Visit coursera course!")
 
-[:clipboard: My Introduction to Data Anlytics final assignment](./Final%20Assignment%3A%20Data%20Scientist%20Role%20Play.md)
+[:clipboard: My Introduction to Data Anlytics final assignment](./Final%20Assignment:%20Using%20Data%20Analysis%20for%20Detecting%20Credit%20Card%20Fraud.md)
 
 [:trophy: My certification](./certification.pdf)
 
