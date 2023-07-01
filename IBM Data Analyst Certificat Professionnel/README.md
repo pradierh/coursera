@@ -6,15 +6,15 @@
 
 ## Table of Contents :scroll:
 
-- [Introduction to Data Analytics](./1_Introduction%20to%20Data%20Analytics)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
-- [Excel Basics for Data Analysis](./3_Dashboards%with%Excel%and%Cognos)
-- [Excel Basics for Data Analysis](./4_)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
-- [Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [1. Introduction to Data Analytics](./1_Introduction%20to%20Data%20Analytics)
+- [2. Excel Basics for Data Analysis](./2_Excel%20Basics%20for%20Data%20Analysis)
+- [3. Data Visualization and Dashboards with Excel and Cognos](./3_Data%Visualization%and%Dashboards%with%Excel%and%Cognos)
+- [4. Python for Data Science, AI & Development](./4_Python%for%Data%Science,%AI%&%Development)
+- [5. Python Project for Data Science](./5_Python%Project%for%Data%Science)
+- [6. Databases and SQL for Data Science with Python](./6_Databases%and%SQL%for%Data%Science%with%Python)
+- [7. Data Analysis with Python](./7_Data%Analysis%with%Python)
+- [8. Data Visualization with Python](./8_Data%Visualization%with%Python)
+- [9_IBM Data Analyst Capstone Project](./9_IBM%Data%Analyst%Capstone%Project)
 
 ## Skills you'll gain
 `Microsoft Excel` `Python Programming` `Data Analysis` `Data Visualization (DataViz)` `SQL`
