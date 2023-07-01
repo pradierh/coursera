@@ -14,7 +14,7 @@
 - [6. Databases and SQL for Data Science with Python](./6_Databases%and%SQL%for%Data%Science%with%Python)
 - [7. Data Analysis with Python](./7_Data%Analysis%with%Python)
 - [8. Data Visualization with Python](./8_Data%Visualization%with%Python)
-- [9_IBM Data Analyst Capstone Project](./9_IBM%Data%Analyst%Capstone%Project)
+- [9. IBM Data Analyst Capstone Project](./9_IBM%Data%Analyst%Capstone%Project)
 
 ## Skills you'll gain
 `Microsoft Excel` `Python Programming` `Data Analysis` `Data Visualization (DataViz)` `SQL`
