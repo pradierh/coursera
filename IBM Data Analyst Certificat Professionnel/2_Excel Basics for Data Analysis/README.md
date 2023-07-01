@@ -1,8 +1,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" width="25%" height="25%">
 
-# Introduction to Data Analytics
+# Excel Basics for Data Analysis
 
-Explore the fundamentals of data analysis, learn about various data roles, and understand the tools and techniques used by professionals. Begin your journey into the data ecosystem and discover how to transform raw data into meaningful insights.
+Acquire essential Excel skills for data analysis, exploring spreadsheet tasks, data entry, and formula use, while learning data quality techniques and advanced features like filtering, sorting, and pivot tables. Ideal for beginners eager to expand their data analysis prowess in business or data science.
 
 ## Course links
 
@@ -15,13 +15,14 @@ Explore the fundamentals of data analysis, learn about various data roles, and u
 [:trophy: My certification](./certification.pdf)
 
 ## Skills you'll gain
-`Data Science` `Spreadsheet` `Microsoft Excel` `Data Analysis` `Data Visualization (DataViz)`
+`Data Science` `Spreadsheet` `Microsoft Excel` `Data Analysis` `Pivot Table`
 
 ## What you'll learn
-Explain what Data Analytics is and the key steps in the Data Analytics process
 
-Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst
+Display working knowledge of Excel for Data Analysis.
 
-Describe the different types of data structures, file formats, and sources of data
+Perform basic spreadsheet tasks including navigation, data entry, and using formulas.
 
-Describe the data analysis process involving collecting, wrangling, mining, and visualizing data
+Employ data quality techniques to import and clean data in Excel.
+
+Analyze data in spreadsheets by using filter, sort, look-up functions, as well as pivot tables.
